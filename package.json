@@ -1,0 +1,26 @@
+{
+  "name": "globe-theme",
+  "displayName": "Globe Theme",
+  "description": "'Globe Theme' is a dark theme made my Aritro Sana. It is a great theme for frontend and JavaScript developers. This theme is designed for developers especially JavaScript and ReactJS developers. It has only one version. The theme is a type of gray color.",
+  "version": "0.0.1",
+  "publisher": "GlobeTheme",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "repository": {
+    "url": "https://github.com/AritrSana/globe-theme"
+  },
+  "icon": "./GlobeTech.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Globe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Globe-color-theme.json"
+      }
+    ]
+  }
+}
