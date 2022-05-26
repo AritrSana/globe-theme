@@ -6,4 +6,4 @@
 
 ###### It looks like this:
 
-![Theme1](https://github.com/AritrSana/globe-theme/Theme1.PNG)
+![Theme1](https://raw.githubusercontent.com/AritrSana/globe-theme/main/Theme1.PNG)
